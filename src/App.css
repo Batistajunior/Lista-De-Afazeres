@@ -1,0 +1,9 @@
+body{
+  background-color: gainsboro;
+}
+
+/* Defina o estilo do botão "Criar Tarefa" */
+.orange-gradient-button {
+  background: linear-gradient(45deg, #FFA500, #FF6347);
+  color: white;
+}
